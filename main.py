@@ -14,7 +14,7 @@ pygame.display.set_caption('Resize Window')
 
 CREDITS:
 
-donwnloaded the image from the below page
+downloaded the image from the below page
 https://gmunk.com/Windows-10-Desktop
 
 """
